@@ -1,7 +1,7 @@
-# SecureCart
-Advanced Firmware Threat Detection and Application-Layer Security
+# 🛡️ Secure Retail – Walmart Hackathon Project
 
----
+A dual-protection cybersecurity suite for retail—featuring user trust scoring, firmware integrity scans, zero-trust controls, and more. Built using Python and Streamlit.
+
 
 ## Overview
 
