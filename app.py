@@ -1,5 +1,5 @@
 import streamlit as st
-from cor import firmware_scan_ui
+from firmware_detection import firmware_scan_ui
 from detection import check_and_recover
 from admin_features import (
     get_admin_action_logs,
